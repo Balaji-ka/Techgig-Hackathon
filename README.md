@@ -1,8 +1,8 @@
 # Techgig-Hackathon
 # Conversion-fraud-in-Digital-Advertising
-This repository contains a notebook and datasets which I have created for a particular Virtual Machine Learning hackathon. I have got an accuray around 89.8901.
+This repository contains a notebook and datasets which I have created for a particular Virtual Machine Learning hackathon. I have got an accuracy around 89.8901.
 
-About Hackathon
+#About Hackathon
 This is a Virtual Machine Learning Hackathon conducted by code Gladiators 2021 presented by cognizant. This hackathon is to multi-categorize items with high precision. NLP is a domain which is so old but still too much to explore. With this hackathon we want to identify potential solutions that have the scalability as well as the performance required for a production system. How easily deployable is the solution is a plus.
 
 # About Problem Statement
